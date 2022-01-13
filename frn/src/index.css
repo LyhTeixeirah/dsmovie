@@ -2,6 +2,7 @@
 
 :root {
   --color-primary: #000000;
+  --color-secondary: #28218d;
 }
 
 * {
@@ -10,7 +11,7 @@
 }
 
 html, body {
-    background-color: #000000;
+    background-color: #111010;
     color: #ffffff;
 }
 
